@@ -1,0 +1,16 @@
+# GrasshoppeR Suite — dependências Python de terceiros
+# Gerado a partir dos imports dos arquivos .py do pacote.
+# Bibliotecas da biblioteca padrão do Python NÃO entram aqui.
+#
+# Abrange:
+# - Grasshopper.py
+# - tools/RascoOsint.py
+# - tools/mianba.py
+# - tools/core/jestercopy.py
+# - módulos auxiliares da Jester
+#
+# Dependências diretas:
+beautifulsoup4
+colorama
+requests
+rich
