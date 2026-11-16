@@ -514,7 +514,7 @@ O runtime correspondente precisa estar instalado e acessível pelo `PATH`.
 
 # 1. GrasshoppeR Launcher
 
-![Foto da GrasshoppeR](imagens/grass.png)
+![Foto da GrasshoppeR](imagens/Screenshot_20261116_055805_Termux(1).jpg)
 
 **Arquivo:** `Grasshopper.py`  
 **Linguagem:** Python
@@ -634,7 +634,7 @@ O módulo oferece uma forma prática de registrar e comparar o estado de diretó
 ---
 
 # 4. MoonScan
-![Print da MoonScan](imagens/mscan.png)
+![Print da MoonScan](imagens/Screenshot_20261116_055856_Termux(1).jpg)
 
 
 **Arquivo:** `tools/moonscan.go`  
@@ -768,7 +768,7 @@ As consultas devem ser realizadas somente em sistemas próprios ou com autoriza�
 ---
 
 # 5. Rasco OSINT
-![Print da Rasco](imagens/rasco.png)
+![Print da Rasco](imagens/Screenshot_20261116_055910_Termux(1).jpg)
 
 
 **Arquivo:** `tools/RascoOsint.py`  
@@ -851,7 +851,7 @@ O Rasco combina um catálogo categorizado, classificação dos resultados, expor
 ---
 
 # 6. Mianba
-![Imagem da Mianba(mi@nb@)](imagens/mianba.png)
+![Imagem da Mianba(mi@nb@)](imagens/Screenshot_20261116_055919_Termux(1).jpg)
 
 
 **Arquivo:** `tools/mianba.py`  
@@ -914,7 +914,7 @@ O Mianba reúne várias consultas em uma interface visual única, utilizando tab
 ---
 
 # 7. JesterCopyCat / Jester
-![Foto Banner Jester](imagens/jester.png)
+![Foto Banner Jester](imagens/Screenshot_20261116_055936_Termux(1).jpg)
 
 **Interface:** `tools/jester.sh`  
 **Núcleo:** `tools/core/jestercopy.py`  
