@@ -1,3 +1,7 @@
+![Foto da GrasshoppeR](imagens/uHlupXsoKg84q7(1).png)
+
+
+
 # GrasshoppeR Suite
 
 **Uma central de ferramentas de terminal, com programas independentes em diferentes linguagens.**
